@@ -1,6 +1,6 @@
 # Coffee Shop Sales Dashboard (Excel Project)
 
-![Dashboard](Dashboard_Image.png)
+![Dashboard](dashboard-image.png)
 
 This is my Excel project where I analyzed coffee shop sales data and made a dashboard out of it.
 
