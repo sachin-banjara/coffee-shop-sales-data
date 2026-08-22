@@ -4,6 +4,8 @@
 
 This is my Excel project where I analyzed coffee shop sales data and made a dashboard out of it.
 
+Password - 12345 "To unlock excel charts.
+
 ## Problem
 
 I had raw sales data (transaction level) and wanted to answer some basic questions from it:
